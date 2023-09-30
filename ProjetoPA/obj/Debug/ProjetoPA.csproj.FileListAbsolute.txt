@@ -1,0 +1,7 @@
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\bin\Debug\ProjetoPA.exe.config
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\bin\Debug\ProjetoPA.exe
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\bin\Debug\ProjetoPA.pdb
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\obj\Debug\ProjetoPA.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\obj\Debug\ProjetoPA.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\obj\Debug\ProjetoPA.exe
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\ProjetoPA\obj\Debug\ProjetoPA.pdb

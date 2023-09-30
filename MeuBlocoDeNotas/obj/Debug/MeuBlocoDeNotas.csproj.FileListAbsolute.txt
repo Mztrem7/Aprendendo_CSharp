@@ -1,0 +1,10 @@
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.exe.config
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.exe
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\bin\Debug\MeuBlocoDeNotas.pdb
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.Form1.resources
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.exe
+C:\Users\mateu\OneDrive\Documentos\C# AULAS\MeuBlocoDeNotas\obj\Debug\MeuBlocoDeNotas.pdb
